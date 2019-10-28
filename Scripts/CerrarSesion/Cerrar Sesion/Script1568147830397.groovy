@@ -15,5 +15,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.click(findTestObject('Object Repository/p_Salir'))
 
+WebUI.delay(5)
+
 WebUI.closeBrowser()
 

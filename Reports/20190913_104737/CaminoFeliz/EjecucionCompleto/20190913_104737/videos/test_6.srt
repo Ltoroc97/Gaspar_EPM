@@ -1,0 +1,4 @@
+1
+00:00:00,391 --> 00:00:00,393
+1. selectOptionByValue(findTestObject("Object Repository/Page_GASPAR - Crear Requerimiento/Contenedor1_SeleccionarCodigo"), "9", true)
+

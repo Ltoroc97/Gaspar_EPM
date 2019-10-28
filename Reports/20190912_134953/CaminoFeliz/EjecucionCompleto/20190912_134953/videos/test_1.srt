@@ -1,0 +1,8 @@
+1
+00:00:00,972 --> 00:00:00,976
+1. openBrowser("")
+
+2
+00:00:27,661 --> 00:00:27,662
+5. navigateToUrl("https://smdepbwws01v.intergrupo.com/EpmGaspar/Seguridad/Login.aspx")
+

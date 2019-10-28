@@ -1,0 +1,12 @@
+1
+00:00:00,477 --> 00:00:00,478
+1. setText(findTestObject("Object Repository/input_Nmero Instalacin_ctl00cphContenidotextNombreInstalacion"), "054814006000320210")
+
+2
+00:00:01,826 --> 00:00:01,827
+5. click(findTestObject("Object Repository/input_Rural_ctl00cphContenidobotonConsultar"))
+
+3
+00:00:04,345 --> 00:00:04,347
+9. click(findTestObject("Object Repository/input_Fecha ltima Revisin Peridica_ctl00cphContenidobotonCrearSolicitud"))
+

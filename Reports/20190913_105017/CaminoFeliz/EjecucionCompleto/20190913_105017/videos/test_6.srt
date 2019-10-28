@@ -1,0 +1,4 @@
+1
+00:00:00,388 --> 00:00:00,389
+1. sendKeys(findTestObject("Object Repository/Page_GASPAR - Crear Requerimiento/Contenedor1_SeleccionarCodigo"), Keys.chord(ENTER))
+

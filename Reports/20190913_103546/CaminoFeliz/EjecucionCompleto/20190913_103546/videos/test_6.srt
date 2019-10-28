@@ -1,0 +1,8 @@
+1
+00:00:00,452 --> 00:00:00,453
+1. openBrowser("")
+
+2
+00:00:04,677 --> 00:00:04,678
+5. selectOptionByValue(findTestObject("Object Repository/Page_GASPAR - Crear Requerimiento/Contenedor1_SeleccionarCodigo"), "9", true)
+

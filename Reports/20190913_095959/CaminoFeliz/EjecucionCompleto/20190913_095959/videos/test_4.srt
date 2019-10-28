@@ -1,0 +1,8 @@
+1
+00:00:00,710 --> 00:00:00,711
+1. click(findTestObject("Page_GASPAR - Recibir Llamadas/a_Crear Requerimiento"))
+
+2
+00:00:02,028 --> 00:00:02,029
+5. delay(5)
+

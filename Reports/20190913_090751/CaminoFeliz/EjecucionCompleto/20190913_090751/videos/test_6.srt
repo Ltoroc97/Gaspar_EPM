@@ -1,0 +1,4 @@
+1
+00:00:01,054 --> 00:00:01,055
+1. selectOptionByValue(findTestObject("null"), "13", true)
+

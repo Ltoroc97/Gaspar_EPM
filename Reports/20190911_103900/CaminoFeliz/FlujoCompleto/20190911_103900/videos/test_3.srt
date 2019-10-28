@@ -1,0 +1,8 @@
+1
+00:00:00,347 --> 00:00:00,348
+1. navigateToUrl("https://smdepbwws01v.intergrupo.com/EpmGaspar/Seguridad/Login.aspx?ReturnUrl=%2fEpmGaspar%2fBienvenida%2fBienvenida.aspx")
+
+2
+00:00:00,464 --> 00:00:00,465
+5. click(findTestObject("Object Repository/td_Llamadas"))
+

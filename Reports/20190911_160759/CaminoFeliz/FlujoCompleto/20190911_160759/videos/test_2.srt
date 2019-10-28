@@ -1,0 +1,12 @@
+1
+00:00:00,789 --> 00:00:00,794
+1. selectOptionByValue(findTestObject("Object Repository/select_EPM"), "EPM", true)
+
+2
+00:00:02,915 --> 00:00:02,916
+5. selectOptionByValue(findTestObject("Object Repository/select_GasRevisiones"), "Gas", true)
+
+3
+00:00:03,896 --> 00:00:03,897
+9. click(findTestObject("Object Repository/input_Servicio_btnAceptar"))
+

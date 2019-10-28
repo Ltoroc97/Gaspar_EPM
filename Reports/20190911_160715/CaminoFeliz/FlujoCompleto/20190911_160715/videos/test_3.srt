@@ -1,0 +1,4 @@
+1
+00:00:00,516 --> 00:00:00,518
+1. focus(findTestObject("a_Llamadas"), com.kms.katalon.core.model.FailureHandling)
+

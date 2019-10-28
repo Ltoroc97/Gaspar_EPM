@@ -1,0 +1,8 @@
+1
+00:00:00,358 --> 00:00:00,360
+1. click(findTestObject("Object Repository/input__ctl00cphContenidobtnGuardar"))
+
+2
+00:00:00,710 --> 00:00:00,710
+5. click(findTestObject("Object Repository/li_Se cre el requerimiento exitosamente"))
+

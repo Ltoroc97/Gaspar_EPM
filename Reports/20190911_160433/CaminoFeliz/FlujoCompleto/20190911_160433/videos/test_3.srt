@@ -1,0 +1,12 @@
+1
+00:00:00,846 --> 00:00:00,848
+1. click(findTestObject("Object Repository/a_Llamadas"))
+
+2
+00:00:01,954 --> 00:00:01,956
+5. waitForElementClickable(findTestObject("a_Llamadas"), 30)
+
+3
+00:00:02,624 --> 00:00:02,625
+9. focus(findTestObject("a_Llamadas"), com.kms.katalon.core.model.FailureHandling)
+

@@ -1,0 +1,8 @@
+1
+00:00:00,408 --> 00:00:00,409
+1. click(findTestObject("Object Repository/td_Llamadas"))
+
+2
+00:00:00,880 --> 00:00:00,882
+5. click(findTestObject("Page_GASPAR - Gestin Avanzada Sistema para Atender Requerimientos/a_Llamadas"))
+

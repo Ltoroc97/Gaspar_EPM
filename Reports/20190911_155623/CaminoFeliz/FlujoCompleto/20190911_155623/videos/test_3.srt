@@ -1,0 +1,8 @@
+1
+00:00:00,404 --> 00:00:00,405
+1. click(findTestObject("Object Repository/a_Llamadas"))
+
+2
+00:00:00,741 --> 00:00:00,742
+5. selectOptionByValue(findTestObject("Object Repository/a_Llamadas"), "Llamadas", true)
+

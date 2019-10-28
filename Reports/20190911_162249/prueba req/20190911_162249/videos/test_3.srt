@@ -1,0 +1,4 @@
+1
+00:00:00,447 --> 00:00:00,449
+1. click(findTestObject("Object Repository/input__ctl00cphContenidobtnGuardar"))
+

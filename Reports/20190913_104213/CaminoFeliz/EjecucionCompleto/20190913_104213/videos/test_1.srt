@@ -1,0 +1,20 @@
+1
+00:00:01,335 --> 00:00:01,339
+1. openBrowser("")
+
+2
+00:00:11,296 --> 00:00:11,297
+5. navigateToUrl("https://smdepbwws01v.intergrupo.com/EpmGaspar/Seguridad/Login.aspx")
+
+3
+00:00:13,421 --> 00:00:13,423
+9. setText(findTestObject("Object Repository/input_Usuario_txtUsuario"), "Ltoroc")
+
+4
+00:00:13,839 --> 00:00:13,839
+13. setEncryptedText(findTestObject("Object Repository/input_Contrasea_txtPassword"), "aeHFOx8jV/A=")
+
+5
+00:00:14,196 --> 00:00:14,197
+17. click(findTestObject("Object Repository/input_Dominio_btnIngresar"))
+

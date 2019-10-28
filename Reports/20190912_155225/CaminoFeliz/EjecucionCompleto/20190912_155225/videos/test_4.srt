@@ -1,0 +1,8 @@
+1
+00:00:00,497 --> 00:00:00,499
+1. click(findTestObject("Object Repository/Page_GASPAR - Gestin Avanzada Sistema para Atender Requerimientos/a_Crear Requerimiento"))
+
+2
+00:00:01,449 --> 00:00:01,450
+5. delay(10)
+

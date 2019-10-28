@@ -1,0 +1,4 @@
+1
+00:00:00,547 --> 00:00:00,548
+1. setText(findTestObject("Object Repository/input_Nmero Instalacin_ctl00cphContenidotextNombreInstalacion"), "050817000001000708")
+

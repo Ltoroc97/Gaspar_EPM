@@ -1,0 +1,16 @@
+1
+00:00:00,338 --> 00:00:00,339
+1. doubleClick(findTestObject("Object Repository/a_Llamadas"))
+
+2
+00:00:00,342 --> 00:00:00,343
+5. mouseOver(findTestObject("a_Llamadas"))
+
+3
+00:00:00,615 --> 00:00:00,616
+9. waitForElementClickable(findTestObject("a_Llamadas"), 20)
+
+4
+00:00:00,758 --> 00:00:00,758
+13. click(findTestObject("Object Repository/a_Crear Requerimiento"))
+

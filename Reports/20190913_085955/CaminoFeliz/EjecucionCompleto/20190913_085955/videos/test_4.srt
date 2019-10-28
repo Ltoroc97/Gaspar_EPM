@@ -1,0 +1,4 @@
+1
+00:00:00,597 --> 00:00:00,598
+1. click(findTestObject("Page_GASPAR - Requerimientos/a_Crear Requerimiento"))
+
